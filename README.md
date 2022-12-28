@@ -77,3 +77,8 @@ Copyright
 * (C) 2005 Open Source Matters, Inc. <https://www.joomla.org>
 * Distributed under the GNU General Public License version 2 or later
 * See [License details](https://docs.joomla.org/Special:MyLanguage/Joomla_Licenses)
+
+This Branch
+---------------------
+* Update Fontawesome 5.14 to Fontawesome 6.2
+* Update joomla.assets.json in media/vendor to reflect the changes in files and file structure of Fontawesome 6.2
