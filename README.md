@@ -93,4 +93,4 @@ This Branch
 
 ## Another are that has to be addressed is support for fontawesome SVG/JS icons.
 
-Whan I try to load Fontawesome JS it breaks both the front and back ends of hte site. I will have to figure out what is interfereing with what and how to eleimate the conflicts.
+Whan I try to load Fontawesome JS it breaks both the front and back ends of the site. I will have to figure out what is interfereing with what and how to eleimate the conflicts.
