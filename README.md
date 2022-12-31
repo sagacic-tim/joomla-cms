@@ -82,3 +82,17 @@ This Branch
 ---------------------
 * Update Fontawesome 5.14 to Fontawesome 6.2
 * Update joomla.assets.json in media/vendor to reflect the changes in files and file structure of Fontawesome 6.2
+* 
+**Fontawesome 5.14 need to be updated to Fontawesome 6.2 so that when Joomla 4.3 is released it is using the latest glyphs by Fontawesome.**
+
+##What has changed in Fontawesome 6.2.1##
+
+-We've added a whole new Thin style! Check them out and give your icons that feather-light touch.
+-We've added a lot of new icons in all of our styles! Find your new favorite icon.
+-You can now use the full name for styles, so both fal and fa-light will work for light style icons.
+-We've updated a lot of icons names to be more consistent and situation neutral, but we made aliases for the old names if you don't want to update your code.
+-We're adding a new Sharp family of styles starting with Sharp Solid.
+
+**Fontawesome has done their very best to make Fontawesome 6 compatible with Fontawesome 5**
+
+This means that upgrading to Fontawesome 6 will not affect websites that depend on Joomla to deliver Fontawesome 5 icons, actually Joomla users will get the new and improved Fontawesome 6 icons without having to update their code at all.
