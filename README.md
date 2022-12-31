@@ -83,7 +83,8 @@ This Branch
 * Update Fontawesome 5.14 to Fontawesome 6.2
 * Update joomla.assets.json in media/vendor to reflect the changes in files and file structure of Fontawesome 6.2
 
-**Fontawesome 5.14 need to be updated to Fontawesome 6.2 so that when Joomla 4.3 is released it is using the latest glyphs by Fontawesome.**
+**Fontawesome 5.14 needs to be updated to Fontawesome 6.2 so that when Joomla 4.3 is released it is using the latest glyphs by Fontawesome.**
+**Joomla also needs to support Fontawsome SVG icons and their attendant JS files. I have tried adding Fontawesome JS to Joomla and it crashed both the front end and htre back end, so I will have to deteermine where the conflict arises.**
 
 ## What has changed in Fontawesome 6.2.1
 
