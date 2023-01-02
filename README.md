@@ -91,6 +91,6 @@ This Branch
 * They've updated a lot of icons names to be more consistent and situation neutral, but we made aliases for the old names if you don't want to update your code.
 * They're adding a new Sharp family of styles starting with Sharp Solid. this is Pro version only, but is is perhaps incumbent on me or other to build a pro plugin where as pro license can be entered.
 
-## Another are that has to be addressed is support for fontawesome SVG/JS icons.
+## Another area that has to be addressed is support for fontawesome SVG/JS icons.
 
 Whan I try to load Fontawesome JS it breaks both the front and back ends of the site. I will have to figure out what is interfereing with what and how to eleimate the conflicts.
